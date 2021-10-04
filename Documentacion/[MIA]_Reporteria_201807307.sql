@@ -26,4 +26,3 @@ SELECT nombre_actor || ' ' || apellido_actor FROM actor WHERE apellido_actor LIK
 
 
 
-
